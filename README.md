@@ -1,6 +1,6 @@
 # Youtube Dl bot 😉
 ## Prerequisite
-    ffmpeg
+    @supunma
   
     
 ## install dependencies
@@ -17,3 +17,4 @@
 * [HasibulKabir](https://telegram.dog/HasibulKabir)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aryanvikash/Youtube-Downloader-Bot/tree/master)
+creator - @supunma 
